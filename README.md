@@ -9,13 +9,11 @@ professional service provider.
 
 ### Some of my work
 
-**[Prosody](https://github.com/Helsinki-NLP/prosody)**: Contains code and data. A system for predicting prosodic prominence from written text. The prosody corpus contains automatically generated, high quality prosodic annotations for the LibriTTS corpus (Zen et al. 2019) using the Continuous Wavelet Transform Annotation method (Suni et al. 2017). 
-  - [![License (code): MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![License (data): CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) 
-  - [📄 Read the paper](https://aclweb.org/anthology/W19-6129/)
+**[Prosody](https://github.com/Helsinki-NLP/prosody)**: Contains code and data. A system for predicting prosodic prominence from written text. The prosody corpus contains automatically generated, high quality prosodic annotations for the LibriTTS corpus (Zen et al. 2019) using the Continuous Wavelet Transform Annotation method (Suni et al. 2017). [[paper](https://aclweb.org/anthology/W19-6129/)]<br />
+[![License (code): MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![License (data): CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) 
 
-**[HBMP](https://github.com/Helsinki-NLP/HBMP)**: Natural language inference system written in Python and PyTorch implementing the HBMP sentence encoder. 
-  - [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  - [📄 Read the paper](https://www.cambridge.org/core/journals/natural-language-engineering/article/sentence-embeddings-in-nli-with-iterative-refinement-encoders/AC811644D52446E414333B20FEACE00F)
+**[HBMP](https://github.com/Helsinki-NLP/HBMP)**: Natural language inference system written in Python and PyTorch implementing the HBMP sentence encoder. [[paper](https://www.cambridge.org/core/journals/natural-language-engineering/article/sentence-embeddings-in-nli-with-iterative-refinement-encoders/AC811644D52446E414333B20FEACE00F)]<br />
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **[NLP Notebooks](https://github.com/aarnetalman/Notebooks)**:
 Jupyter notebooks exploring different NLP/ML use cases and tasks.
