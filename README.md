@@ -12,11 +12,11 @@ professional service provider.
 ### Some of my work
 
 #### [Prosody](https://github.com/Helsinki-NLP/prosody)
-- A system for predicting prosodic prominence from written text. 
-- The prosody corpus contains automatically generated, high quality prosodic annotations for the LibriTTS corpus (Zen et al. 2019) using the Continuous Wavelet Transform Annotation method (Suni et al. 2017). [[paper](https://aclweb.org/anthology/W19-6129/)]
+Contains the largest annotated dataset of English language with labels for prosodic prominence together with the code for predicting 
+prosodic prominence from written text using different models, like BERT and BiLSTM. The prosody corpus contains automatically generated, high quality prosodic annotations for the LibriTTS corpus (Zen et al. 2019) using the Continuous Wavelet Transform Annotation method (Suni et al. 2017). [[paper](https://aclweb.org/anthology/W19-6129/)]
 
 #### [Natural Language Inference system (HBMP)](https://github.com/Helsinki-NLP/HBMP)
-- Natural language inference system written in Python and PyTorch implementing the HBMP sentence encoder. [[paper](https://www.cambridge.org/core/journals/natural-language-engineering/article/sentence-embeddings-in-nli-with-iterative-refinement-encoders/AC811644D52446E414333B20FEACE00F)]
+Natural language inference system written in Python and PyTorch implementing the HBMP sentence encoder. [[paper](https://www.cambridge.org/core/journals/natural-language-engineering/article/sentence-embeddings-in-nli-with-iterative-refinement-encoders/AC811644D52446E414333B20FEACE00F)]
 
 #### [NLP Notebooks](https://github.com/aarnetalman/Notebooks)
 - Jupyter notebooks exploring different NLP/ML use cases and tasks.
