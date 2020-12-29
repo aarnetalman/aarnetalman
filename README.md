@@ -18,7 +18,7 @@ professional service provider.
 3. **[NLP Notebooks](https://github.com/aarnetalman/Notebooks)**:
 Jupyter notebooks exploring different NLP/ML use cases and tasks.
 4. **[NLI with Transformers](https://github.com/aarnetalman/nli-with-transformers)**:
-COde for fine-tuning different transformers models with NLI data.
+Code for fine-tuning different transformers models with NLI data.
 
 <!--
 **aarnetalman/aarnetalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
