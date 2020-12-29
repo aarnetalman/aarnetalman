@@ -9,7 +9,7 @@ My research focuses on computational semantics, natural language understanding, 
 - ☁️ I also work as the CTO at [Nordcloud](https://www.nordcloud.com) UK. Nordcloud is a leading European public cloud managed and 
 professional service provider.
 
-Visit my [website](https://talman.io) for moire details.
+Visit my [website](https://talman.io) for more details.
 
 ### Some of my work
 
