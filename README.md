@@ -18,7 +18,8 @@ prosodic prominence from written text using different models, like BERT and BiLS
 * **[Natural Language Inference system (HBMP)](https://github.com/Helsinki-NLP/HBMP):**
 Natural language inference system written in Python and PyTorch implementing the HBMP sentence encoder. [[paper](https://www.cambridge.org/core/journals/natural-language-engineering/article/sentence-embeddings-in-nli-with-iterative-refinement-encoders/AC811644D52446E414333B20FEACE00F)]
 
-* **[NLP Notebooks](https://github.com/aarnetalman/Notebooks):** Jupyter notebooks exploring different NLP/ML use cases and tasks.
+* **[NLP Notebooks](https://github.com/aarnetalman/Notebooks):** Jupyter notebooks exploring different NLP/ML use cases and tasks. Some of the
+notebooks have been published as blog posts on my website [https://talman.io](https://talman.io).
 
 * **[NLI with Transformers](https://github.com/aarnetalman/nli-with-transformers):** Code for fine-tuning different transformers models with NLI data.
 
