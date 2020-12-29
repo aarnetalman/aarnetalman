@@ -2,7 +2,7 @@ I'm a researcher and a PhD student in Language Technology at
 [University of Helsinki](https://blogs.helsinki.fi/language-technology/). 
 My research focuses on computational semantics, natural language understanding, machine translation and machine learning. 
 
-- 🔬 I'm currently working on my PhD on Natural Language Inference (NLI, sometimes also known as Textual Entailment). 
+- 🔬 I'm currently working on my PhD on Natural Language Inference. 
 
 - ☁️ I also work as the CTO at [Nordcloud](https://www.nordcloud.com) UK. Nordcloud is a leading European public cloud managed and 
 professional service provider.
