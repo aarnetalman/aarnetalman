@@ -14,7 +14,7 @@ Visit my [website](https://talman.io) for more details.
 ### Some of my work
 
 * **[Prosody](https://github.com/Helsinki-NLP/prosody):**
-Contains the largest annotated dataset of English language, with labels for prosodic prominence, and the code for predicting 
+Contains the largest annotated dataset of English language with labels for prosodic prominence. Also contains code for predicting 
 prosodic prominence from written text using different models, like BERT and BiLSTM. The prosody corpus contains automatically generated, high quality prosodic annotations for the LibriTTS corpus (Zen et al. 2019) using the Continuous Wavelet Transform Annotation method (Suni et al. 2017). [[paper](https://aclweb.org/anthology/W19-6129/)]
 
 * **[Natural Language Inference system (HBMP)](https://github.com/Helsinki-NLP/HBMP):**
