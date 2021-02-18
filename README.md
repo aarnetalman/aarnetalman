@@ -1,7 +1,7 @@
 ### Hi!
 
 
-- ☁️ I the Global AI/ML Practice Lead at [Nordcloud, an IBM Company](https://www.nordcloud.com) UK. Nordcloud is a leading European public cloud managed and 
+- ☁️ I the Global AI/ML Practice Lead at [Nordcloud, an IBM Company](https://www.nordcloud.com). Nordcloud is a leading European public cloud managed and 
 professional service provider.
 
 - 🔬 I'm also a researcher and a PhD student in Language Technology at 
