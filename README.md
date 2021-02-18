@@ -1,13 +1,12 @@
 ### Hi!
 
-I'm a researcher and a PhD student in Language Technology at 
-[University of Helsinki](https://blogs.helsinki.fi/language-technology/). 
-My research focuses on computational semantics, natural language understanding, machine translation and machine learning. 
 
-- 🔬 I'm currently working on my PhD on Natural Language Inference. 
-
-- ☁️ I also work as the CTO at [Nordcloud](https://www.nordcloud.com) UK. Nordcloud is a leading European public cloud managed and 
+- ☁️ I the Global AI/ML Practice Lead at [Nordcloud, an IBM Company](https://www.nordcloud.com) UK. Nordcloud is a leading European public cloud managed and 
 professional service provider.
+
+- 🔬 I'm also a researcher and a PhD student in Language Technology at 
+[University of Helsinki](https://blogs.helsinki.fi/language-technology/). 
+My research focuses on computational semantics, natural language understanding, machine translation and machine learning. I'm currently working on my PhD on Natural Language Inference. 
 
 Visit my [website](https://talman.io) for more details.
 
