@@ -6,7 +6,7 @@ professional service provider.
 
 - 🔬 I'm also a researcher and a PhD student in Language Technology at 
 [University of Helsinki](https://blogs.helsinki.fi/language-technology/). 
-My research focuses on computational semantics, natural language understanding, machine translation and machine learning. I'm currently working on my PhD on Natural Language Inference. 
+My research focuses on natural language processing, natural language understanding, machine translation and machine learning. I'm currently working on my PhD on Natural Language Inference. 
 
 Visit my [website](https://talman.io) for more details.
 
