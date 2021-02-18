@@ -10,7 +10,7 @@ My research focuses on computational semantics, natural language understanding, 
 
 Visit my [website](https://talman.io) for more details.
 
-### Some of my work
+### Some of my academic work
 
 * **[Prosody](https://github.com/Helsinki-NLP/prosody):**
 Contains the largest annotated dataset of English language with labels for prosodic prominence. Also contains code for predicting 
