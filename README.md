@@ -12,6 +12,10 @@ Visit my [website](https://talman.io) for more details.
 
 ### Some of my academic work
 
+* **[NLI Data Sanity Check](https://github.com/Helsinki-NLP/nli-data-sanity-check):**
+This repository contains data and a sample script for the paper:
+Aarne Talman, Marianna Apidianaki, Stergios Chatzikyriakidis, Jörg Tiedemann. 2021 (forthcoming). NLI Data Sanity Check: Assessing the Effect of Data Corruption on Model Performance. Proceedings of NoDaLiDa.
+
 * **[Prosody](https://github.com/Helsinki-NLP/prosody):**
 Contains the largest annotated dataset of English language with labels for prosodic prominence. Also contains code for predicting 
 prosodic prominence from written text using different models, like BERT and BiLSTM. The prosody corpus contains automatically generated, high quality prosodic annotations for the LibriTTS corpus (Zen et al. 2019) using the Continuous Wavelet Transform Annotation method (Suni et al. 2017). [[paper](https://aclweb.org/anthology/W19-6129/)]
