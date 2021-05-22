@@ -1,8 +1,7 @@
 ### Hi!
 
 
-- ☁️ I the Global AI/ML Practice Lead at [Nordcloud, an IBM Company](https://www.nordcloud.com). Nordcloud is a leading European public cloud managed and 
-professional service provider.
+- 🤖 I a Senior AI Engineer at [Silo AI](https://www.silo.ai). Silo AI is the largest private AI lab in the Nordics.
 
 - 🔬 I'm also a researcher and a PhD student in Language Technology at 
 [University of Helsinki](https://blogs.helsinki.fi/language-technology/). 
