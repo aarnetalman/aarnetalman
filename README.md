@@ -1,7 +1,7 @@
 ### Hi!
 
 
-- 🤖 I a Senior AI Engineer at [Silo AI](https://www.silo.ai). Silo AI is the largest private AI lab in the Nordics.
+- 🤖 I'm a Senior AI Engineer at [Silo AI](https://www.silo.ai). Silo AI is the largest private AI lab in the Nordics.
 
 - 🔬 I'm also a researcher and a PhD student in Language Technology at 
 [University of Helsinki](https://blogs.helsinki.fi/language-technology/). 
