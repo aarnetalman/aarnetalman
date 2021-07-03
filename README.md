@@ -7,7 +7,7 @@
 [University of Helsinki](https://blogs.helsinki.fi/language-technology/). 
 My research focuses on natural language processing, natural language understanding, machine translation and machine learning. I'm currently working on my PhD on Natural Language Inference. 
 
-- I'm also a founder of [Basement AI](https://basemsnt.ai), a private NLP research lab and startup.
+- I'm also a founder of [Basement AI](https://basement.ai), a private NLP research lab and startup.
 
 Visit my [website](https://talman.io) for more details.
 
