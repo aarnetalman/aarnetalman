@@ -1,11 +1,13 @@
 ### Hi!
 
 
-- 🤖 I'm a Senior AI Engineer at [Silo AI](https://www.silo.ai). Silo AI is the largest private AI lab in the Nordics.
+- I'm a Senior AI Engineer at [Silo AI](https://www.silo.ai). Silo AI is the largest private AI lab in the Nordics.
 
-- 🔬 I'm also a researcher and a PhD student in Language Technology at 
+- I'm a researcher and a PhD student in Language Technology at 
 [University of Helsinki](https://blogs.helsinki.fi/language-technology/). 
 My research focuses on natural language processing, natural language understanding, machine translation and machine learning. I'm currently working on my PhD on Natural Language Inference. 
+
+- I'm also a founder of [Basement AI](https://basemsnt.ai), a private NLP research lab and startup.
 
 Visit my [website](https://talman.io) for more details.
 
